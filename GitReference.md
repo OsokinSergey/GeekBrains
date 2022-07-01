@@ -11,7 +11,7 @@
 Для получения более подробной информации см. [add command](https://git-scm.com/docs/git-add). 
 
 * `status` - Получение информации от git о его текущем состоянии.
-Для получения более подробной информации см. [status command](https://git-scm.com/docs/git-status).
+Более подробная информация см. [status command](status.md).
 
 * `git commit -m “message”` - Запись изменений в локальный репозиторий.
 Для получения более подробной информации см. [commit command](https://git-scm.com/docs/git-commit). 
