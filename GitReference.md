@@ -19,7 +19,7 @@
 ## ![Ветвления](images/branch.png) Ветвления и слияния
 
 * `checkout` - Переключение между ветвями. `git checkout master` - возвращение к актуальному состоянию и продолжение работы.
-Для получения более подробной информации см. [checkout command](https://git-scm.com/docs/git-checkout). 
+Для получения более подробной информации см. [checkout command](checkout.md). 
 
 ## ![Проверка](images/inspection.png) Проверка и Сравнение
 
