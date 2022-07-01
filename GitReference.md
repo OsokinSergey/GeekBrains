@@ -8,10 +8,10 @@
 ## ![Основные команды](images/base_command.png) Основные команды
 
 * `add` - Добавление содержимого файла в индекс. Или, другими словами, дать команду Git на отслеживание изменений в этом файле.
-Для получения более подробной информации см. [add command](https://git-scm.com/docs/git-add). 
+Для получения более подробной информации см. [add command](add.md). 
 
 * `status` - Получение информации от git о его текущем состоянии.
-Для получения более подробной информации см. [status command](https://git-scm.com/docs/git-status).
+Более подробная информация см. [status command](status.md).
 
 * `git commit -m “message”` - Запись изменений в локальный репозиторий.
 Для получения более подробной информации см. [commit command](https://git-scm.com/docs/git-commit). 
@@ -19,7 +19,7 @@
 ## ![Ветвления](images/branch.png) Ветвления и слияния
 
 * `checkout` - Переключение между ветвями. `git checkout master` - возвращение к актуальному состоянию и продолжение работы.
-Для получения более подробной информации см. [checkout command](https://git-scm.com/docs/git-checkout). 
+Для получения более подробной информации см. [checkout command](checkout.md). 
 
 ## ![Проверка](images/inspection.png) Проверка и Сравнение
 
